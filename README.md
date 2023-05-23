@@ -3,7 +3,7 @@
  ### Project Overview
  - #### `Constants.php` : Contains the database credentials
  - #### `Helper.php` : Contains the routing path
- - #### `Dockerfile` : Contains the informtaion about docker setup
+ - #### `Dockerfile` : Contains set of instructions to build a Docker image
  - #### `controllers/Operation.php` : Contains the controlling logic
 
 ### Database Schema:
