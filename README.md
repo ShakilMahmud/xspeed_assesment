@@ -28,3 +28,9 @@
 ### Docker image:
  From given link you can find the docker image:
  [latest assesment image](https://hub.docker.com/repository/docker/shakilmahmud/xspeed_assessment/tags)
+ 
+### Project Screen Shot:
+![Landing page](https://github.com/ShakilMahmud/xspeed_assesment/blob/main/img/1.png)
+![Order Page](https://github.com/ShakilMahmud/xspeed_assesment/blob/main/img/2.png)
+![Report Page](https://github.com/ShakilMahmud/xspeed_assesment/blob/main/img/3.png)
+
